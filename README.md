@@ -1,6 +1,6 @@
 # Wine Quality Classification 🍷
 
-Projeto desenvolvido para o **POSTECH — DTAT — Tech Challenge, Fase 2**. O objetivo é classificar vinhos em duas categorias a partir de suas características físico-químicas.
+Projeto desenvolvido para o **POSTECH — Tech Challenge, Fase 2**. O objetivo é classificar vinhos em duas categorias a partir de suas características físico-químicas.
 
 ## Objetivo
 
